@@ -9,7 +9,7 @@
 - [ContactServiceTest.java](./ContactServiceTest.java)
 
 ### Project Two: Summary and Reflections Report
-- [Summary and Reflections Report (PDF)](./7-2_Project_Two_Submission_Felie_Magbanua_101925_Final.pdf)
+- [Summary and Reflections Report (PDF)](Summary_and_Reflections_Report.pdf)
 
 This repository contains my project submissions for CS-320: Software Test, Automation & QA. The artifacts include unit test files from Project One (Contact.java, ContactService.java, ContactTest.java, and ContactServiceTest.java) and a completed Summary and Reflections Report from Project Two. These projects focused on creating unit tests using code to uncover errors, analyzing various approaches to software testing based on requirements, and applying appropriate testing strategies to meet requirements throughout the software development life cycle. The work demonstrates my ability to perform requirements analysis, implement verification and validation practices, and apply quality management principles through systematic unit testing. This collection reflects the practical application of software engineering testing strategies that ensure code quality, functionality, and reliability.
 
